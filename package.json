@@ -1,0 +1,16 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "description": "My first API",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "author": "Donata Casalini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
+  }
+}
